@@ -79,6 +79,8 @@ A powerful, intelligent web scraping application that combines AI capabilities w
    GOOGLE_API_KEY=your_google_api_key_here
    DATABASE_URL=sqlite:///./scraper.db
    ```
+   
+   ⚠️ **Security Note**: Never commit your `.env` file to version control! It contains sensitive API keys.
 
 4. **Frontend Setup**
    ```bash
@@ -176,6 +178,12 @@ ai-web-scraper/
 |----------|-------------|----------|---------|
 | `GOOGLE_API_KEY` | Google Gemini API key | Yes | - |
 | `DATABASE_URL` | Database connection string | No | `sqlite:///./scraper.db` |
+
+⚠️ **Important Security Notes:**
+- Keep your `.env` file private and never commit it to version control
+- The `.env` file is already included in `.gitignore` for your protection
+- Get your Google API key from [Google AI Studio](https://ai.google.dev/)
+- Store environment variables securely in production deployments
 
 ## 🧪 Development
 

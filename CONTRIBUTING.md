@@ -49,11 +49,21 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 1. Fork and clone the repository
 2. Follow the installation instructions in the README
-3. Create a new branch for your feature or bug fix
-4. Make your changes
-5. Test your changes thoroughly
-6. Commit your changes with a clear commit message
-7. Push to your fork and submit a pull request
+3. **Create your own `.env` file** (copy from `.env.example`)
+4. **Add your API keys to `.env`** (never commit this file!)
+5. Create a new branch for your feature or bug fix
+6. Make your changes
+7. Test your changes thoroughly
+8. Commit your changes with a clear commit message
+9. Push to your fork and submit a pull request
+
+### Security Guidelines
+
+- **Never commit sensitive data** like API keys, passwords, or personal information
+- **Always use environment variables** for configuration
+- **Keep your `.env` file private** - it's already in `.gitignore`
+- **Review your commits** before pushing to ensure no secrets are included
+- **Use placeholder values** in documentation and examples
 
 ### Development Guidelines
 
