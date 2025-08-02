@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 AI Web Scraper
 
 A powerful, intelligent web scraping application that combines AI capabilities with a modern web interface. This full-stack application allows users to scrape web data using natural language queries and provides real-time progress tracking, data visualization, and export capabilities.
@@ -63,8 +64,8 @@ A powerful, intelligent web scraping application that combines AI capabilities w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-web-scraper.git
-   cd ai-web-scraper
+   git clone https://github.com/MStaR3125/IntelligentScraper.git
+   cd IntelligentScraper
    ```
 
 2. **Backend Setup**
@@ -269,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/ai-web-scraper/issues) page
+1. Check the [Issues](https://github.com/MStaR3125/IntelligentScraper/issues) page
 2. Create a new issue with detailed description
 3. Include error logs and steps to reproduce
 
