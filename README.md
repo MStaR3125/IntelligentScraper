@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 🔍 AI Web Scraper
+# 🔍 IntelligentScraper
 
 A powerful, intelligent web scraping application that combines AI capabilities with a modern web interface. This full-stack application allows users to scrape web data using natural language queries and provides real-time progress tracking, data visualization, and export capabilities.
 
